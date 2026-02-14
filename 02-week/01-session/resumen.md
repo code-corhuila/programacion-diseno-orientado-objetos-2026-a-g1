@@ -78,3 +78,9 @@ Configurar correctamente el entorno de desarrollo para comenzar a programar en J
    ```bash
    java -version
    javac -version
+
+
+# Enlaces 
+
+[1. descargar intellij idea](https://www.jetbrains.com/idea/download/?section=windows)
+[1. descargar visual studio code](https://code.visualstudio.com/download)
