@@ -84,3 +84,7 @@ Configurar correctamente el entorno de desarrollo para comenzar a programar en J
 
 1. [descargar intellij idea](https://www.jetbrains.com/idea/download/?section=windows)
 2. [descargar visual studio code](https://code.visualstudio.com/download)
+3. [descargar jdk ](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) 
+
+
+Nota: ruta para encontrar la instalación de Java : C:\Program Files\Java
