@@ -1,10 +1,10 @@
 @startuml
     class Persona{
         - NumeroDocumento
+        + Nombre                        
+        # Edad        
         # Peso
         # Estatura
-        # Edad
-        + Nombre
         # Genero
         + Caminar()
         + Comer()
